@@ -589,7 +589,7 @@
     <div class="hero-badges">
       <span class="hero-badge"><span class="icon">🎓</span> 哥伦比亚大学 硕士</span>
       <span class="hero-badge"><span class="icon">💼</span> 德勤咨询</span>
-      <span class="hero-badge"><span class="icon">🌐</span> 中 / EN / KO</span>
+      <span class="hero-badge"><span class="icon">🌐</span> 中 / EN / 한</span>
     </div>
   </div>
 
