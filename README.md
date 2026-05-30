@@ -1,4 +1,3 @@
-# jingyu-resume.github.io
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
